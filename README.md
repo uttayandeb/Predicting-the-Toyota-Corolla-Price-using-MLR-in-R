@@ -1,5 +1,6 @@
 # Predicting-the-Toyota-Corolla-Price-using-MLR-in-R
-Predicting the price of Toyota Corolla by using Multiple Linear Regression 
+Predicting the price of Toyota Corolla by using Multiple Linear Regression and building the relationship between input and output variables.
+evaulating the model by doing transformation to the features for improving accuracy.
 
 
 
